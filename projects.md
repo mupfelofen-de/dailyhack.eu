@@ -7,7 +7,7 @@ title: Projects
 
 * [SNESoIP: the SNES ethernet adapter](https://github.com/mupfelofen-de/SNESoIP)
 * [STBrickLib: hardware driver collection for STM32 microcontrollers](https://github.com/mupfelofen-de/STBrickLib)
-  * [Documentation](https://dailyhack.eu/stbricklib/)
+  * [Documentation](https://stbricklib.mupfelofen.de)
 
 ### Software
 
