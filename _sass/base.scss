@@ -5,9 +5,9 @@
 @import "rouge-base16-dark";
 @import "default_colors";
 
-$body-background: $mpf-grey !default;
-$body-foreground: $gallery !default;
-$header: $conifer !default;
+$body-background: $mpf-beige !default;
+$body-foreground: $mpf-plum !default;
+$header: $mpf-plum !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 
@@ -52,7 +52,7 @@ li {
 
 header {
   background: rgba(0, 0, 0, 0.1);
-  border-bottom: 1px dashed $conifer; //header;
+  border-bottom: 1px dashed $mpf-plum; //header;
   padding: 20px;
   margin: 0 0 40px 0;
 }
@@ -72,10 +72,10 @@ header h1 {
   text-align: center;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $conifer;//$header;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+  color: $mpf-grey;//$header;
+  /*text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+               0 0 10px rgba(181, 232, 83, 0.1);*/
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
 }
@@ -83,7 +83,7 @@ header h1 {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: $mpf-blue;
 }
 
 /* Main Content
@@ -102,9 +102,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $header;
   letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+  /*text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+               0 0 10px rgba(181, 232, 83, 0.1);*/
 }
 
 #main_content h1 {
@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h6 {
   font-size: 12px;
   text-transform: uppercase;
-  color: #999;
+  /*color: #999;*/
   margin: 0 0 5px 0;
 }
 
@@ -142,7 +142,7 @@ dt {
 }
 
 ul li {
-  list-style-image:url('../assets/bullet.png');
+  /*list-style-image:url('../assets/bullet.png');*/
 }
 
 blockquote {
@@ -156,7 +156,7 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
-  color: #b5e853;
+  /*color: #b5e853;*/
   border-radius: 2px;
   text-wrap: normal;
   overflow: auto;
@@ -164,11 +164,11 @@ pre {
 }
 
 code.highlighter-rouge {
-  background: rgba(0,0,0,0.9);
+  background: $mpf-lbeige;
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0px 3px;
   margin: 0px -3px;
-  color: #aa759f;
+  color: $mpf-plum;
   border-radius: 2px;
 }
 
@@ -179,7 +179,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed;/* #b5e853;*/
   padding: 5px 10px;
 }
 
@@ -190,8 +190,8 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  border-bottom: 1px dashed; /*#b5e853;*/
+  /*color: #b5e853;*/
 }
 
 /* Buttons
@@ -210,8 +210,8 @@ hr {
   font-weight: bold;
   font-size: 13px;
   text-decoration: none;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  /*text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);*/
 }
 
 .btn:hover {
@@ -228,7 +228,7 @@ hr {
 
 .btn-github .icon {
   opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
+  /*background: url("../images/blacktocat.png") 0 0 no-repeat;*/
 }
 
 /* Links
@@ -236,8 +236,9 @@ hr {
 */
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  color: $mpf-crimson;
+  text-decoration: none;
+  /*text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);*/
 }
 
 a:active, a:focus {
