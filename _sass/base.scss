@@ -5,7 +5,8 @@
 @import "rouge-base16-dark";
 @import "default_colors";
 
-$body-background: $mpf-beige !default;
+/*$body-background: $mpf-beige !default;*/
+$body-background: $mpf-backgr !default;
 $body-foreground: $mpf-plum !default;
 $header: $mpf-plum !default;
 $blockquote-color: $silver-chalice !default;
@@ -164,11 +165,11 @@ pre {
 }
 
 code.highlighter-rouge {
-  background: $mpf-lbeige;
+  background: $mpf-plum;
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0px 3px;
   margin: 0px -3px;
-  color: $mpf-plum;
+  color: $mpf-yellow;
   border-radius: 2px;
 }
 
