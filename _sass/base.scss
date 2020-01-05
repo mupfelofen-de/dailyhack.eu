@@ -165,7 +165,7 @@ pre {
 }
 
 code.highlighter-rouge {
-  background: $mpf-plum;
+  background: $mpf-crimson;
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0px 3px;
   margin: 0px -3px;
@@ -175,17 +175,17 @@ code.highlighter-rouge {
 
 table {
   width: 100%;
-  margin: 0 0 20px 0;
+  /* margin: 0 0 20px 0; */
 }
 
 th {
   text-align: left;
   border-bottom: 1px dashed;/* #b5e853;*/
-  padding: 5px 10px;
+  /*padding: 5px 10px;*/
 }
 
 td {
-  padding: 5px 10px;
+  /*padding: 5px 10px;*/
 }
 
 hr {
@@ -237,7 +237,7 @@ hr {
 */
 
 a {
-  color: $mpf-crimson;
+  color: $mpf-violet;
   text-decoration: none;
   /*text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);*/
 }
