@@ -41,6 +41,10 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 li {
   line-height: 1.4 ;
 }
@@ -266,8 +270,8 @@ a:active, a:focus {
 /* Make footer stick to bottom */
 
 .pagination, footer {
-  height: 50px;
-  line-height: 50px;
+  height: 3em;
+  line-height: 1.5em;
   text-align: center;
 }
 
