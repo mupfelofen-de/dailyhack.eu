@@ -1,9 +1,10 @@
 <footer>
-  <a href="/legal-information.html">
     <span>
         <b>{{ site.author.name}}</b>
     </span>
     {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
     <span>© {{ currentyear }}</span>
-  </a>
+    <a href="/legal-information.html">
+        – <span>Legal information</span>
+    </a>
 </footer>
