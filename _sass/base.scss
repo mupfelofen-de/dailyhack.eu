@@ -49,6 +49,10 @@ li {
   line-height: 1.4 ;
 }
 
+article {
+    text-align: justify;
+}
+
 /* Header, <header>
    header   - container
    h1       - project name
@@ -175,6 +179,14 @@ code.highlighter-rouge {
   margin: 0px -3px;
   color: $mpf-yellow;
   border-radius: 2px;
+}
+
+.quote {
+    margin: 0em 2em;
+}
+
+q {
+    quotes: "»" "«";
 }
 
 table {
