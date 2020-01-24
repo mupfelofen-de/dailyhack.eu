@@ -7,7 +7,7 @@ First of all: hello and welcome to my blog
 [dailyhack.eu](https://dailyhack.eu).
 
 My name is Michael Fitzmayer, and first and foremost I'm a lucky husband
-and proud father of two.  Speaking of which: my son Jakob and my
+and proud father of two.  Speaking of which: our son Jakob and our
 daughter Käthe are truly my most important contributions to this world
 and I could not imagine life without them anymore.
 
