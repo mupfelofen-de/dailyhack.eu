@@ -8,7 +8,7 @@ First of all: hello and welcome to my blog
 
 My name is Michael Fitzmayer, and first and foremost I'm a lucky husband
 and proud father of two.  Speaking of which: our son Jakob and our
-daughter Käthe are truly my most important contributions to this world
+daughter Käthe are truly my most noteworthy contributions to this world
 and I could not imagine life without them anymore.
 
 Besides, I'm 33 years old and I work as a professional embedded software
