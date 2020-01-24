@@ -1,3 +1,3 @@
 # dailyhack.eu
 
-My personal blog.
+My technical blog.
