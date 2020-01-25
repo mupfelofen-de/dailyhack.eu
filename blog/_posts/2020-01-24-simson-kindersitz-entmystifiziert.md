@@ -59,17 +59,16 @@ erhalten:
 <q>vielen Dank für Ihre Mail, die uns zur juristischen Bearbeitung
 weitergeleitet wurde.<br/><br/>
 
-§22a Abs. 27 StVZO bezieht sich auf Rückhalteeinrichtungen für Kinder
-**in** (!) Kraftfahrzeugen (§ 35a Absatz 12 dieser Verordnung sowie § 21
-Absatz 1a der Straßenverkehrs-Ordnung). Die StVZO finden Sie unter
-StVZO - nichtamtliches Inhaltsverzeichnis.  Für Kindersitze auf
-Krafträdern gilt demgegenüber §35a Abs. 9 StVZO ("(9) Krafträder, auf
-denen ein Beifahrer befördert wird, müssen mit einem Sitz für den
-Beifahrer ausgerüstet sein. Dies gilt nicht bei der Mitnahme eines
-Kindes unter sieben Jahren, wenn für das Kind ein besonderer Sitz
-vorhanden und durch Radverkleidungen oder gleich wirksame Einrichtungen
-dafür gesorgt ist, dass die Füße des Kindes nicht in die Speichen
-geraten können."
+§22a Abs. 27 StVZO bezieht sich auf Rückhalteeinrichtungen für Kinder in
+(!) Kraftfahrzeugen (§ 35a Absatz 12 dieser Verordnung sowie § 21 Absatz
+1a der Straßenverkehrs-Ordnung). Die StVZO finden Sie unter StVZO -
+nichtamtliches Inhaltsverzeichnis.  Für Kindersitze auf Krafträdern gilt
+demgegenüber §35a Abs. 9 StVZO ("(9) Krafträder, auf denen ein Beifahrer
+befördert wird, müssen mit einem Sitz für den Beifahrer ausgerüstet
+sein. Dies gilt nicht bei der Mitnahme eines Kindes unter sieben Jahren,
+wenn für das Kind ein besonderer Sitz vorhanden und durch
+Radverkleidungen oder gleich wirksame Einrichtungen dafür gesorgt ist,
+dass die Füße des Kindes nicht in die Speichen geraten können."
 <br/><br/>
 
 Beifahrer dürfen auf einem Kraftrad nur mitgenommen werden, wenn ein
