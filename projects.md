@@ -5,6 +5,8 @@ title: Projects
 
 ### Embedded
 
+* BluePrint: A base project for the STM32F103C8T6 aka blue pill board
+  * [GitHub project site](https://github.com/mupfelofen-de/BluePrint)
 * SNESoIP: The SNES ethernet adapter
   * [GitHub project site](https://github.com/mupfelofen-de/SNESoIP)
 * STBrickLib: Hardware driver collection for STM32 microcontrollers
