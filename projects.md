@@ -14,7 +14,7 @@ title: Projects
   * [Documentation](https://docs.dailyhack.eu/stbricklib/)
 * TrafficLight: A bobby car raceway traffic light control for our local
   day care centre
-  *  [GitHub project site](https://github.com/mupfelofen-de/TrafficLight)
+  * [GitHub project site](https://github.com/mupfelofen-de/TrafficLight)
 
 ### Software
 
