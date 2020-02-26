@@ -12,8 +12,11 @@ title: Projects
 * STBrickLib: Hardware driver collection for STM32 microcontrollers
   * [GitHub project site](https://github.com/mupfelofen-de/STBrickLib)
   * [Documentation](https://docs.dailyhack.eu/stbricklib/)
-* TrafficLight: A bobby car raceway traffic light control for our local
-  day care centre
+* Tamago: A clone of the famous digital pet from 1996
+  * [GitHub project site](https://github.com/mupfelofen-de/Tamago)
+  * [Documentation](https://docs.dailyhack.eu/tamago/)
+* TrafficLight: A bobby car raceway traffic light control
+  * [Blog post](/blog/upgrading-a-bobby-car-raceway.html)
   * [GitHub project site](https://github.com/mupfelofen-de/TrafficLight)
 
 ### Software
