@@ -14,7 +14,7 @@ So I asked him if he was willing to give me one of the smaller ones and
 suddenly he agreed.  Without a second thought I build a fully working
 traffic light for the Bobby Car raceway of our local day care centre.
 
-[![TrafficLight](/files/traffic-light.jpg)](/files/traffic-light-tn.jpg "TrafficLight")
+[![TrafficLight](/files/traffic-light-tn.jpg)](/files/traffic-light.jpg "TrafficLight")
 
 It was a fun mini-project and of course I published the software and a
 rough schematic on GitHub:
