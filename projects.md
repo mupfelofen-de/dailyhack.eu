@@ -18,6 +18,8 @@ title: Projects
 
 ### Software
 
+* CleanUp: A shooter game for MS-DOS
+  * [GitHub project site](https://github.com/mupfelofen-de/CleanUp)
 * eszFW: A cross-platform game development framework written in C99
   * [GitHub project site](https://github.com/mupfelofen-de/eszFW)
   * [Documentation](https://eszfw.de/)
