@@ -9,9 +9,6 @@ title: Projects
   * [GitHub project site](https://github.com/mupfelofen-de/BluePrint)
 * SNESoIP: The SNES ethernet adapter
   * [GitHub project site](https://github.com/mupfelofen-de/SNESoIP)
-* STBrickLib: Hardware driver collection for STM32 microcontrollers
-  * [GitHub project site](https://github.com/mupfelofen-de/STBrickLib)
-  * [Documentation](https://docs.dailyhack.eu/stbricklib/)
 * Tamago: A clone of the famous digital pet from 1996
   * [GitHub project site](https://github.com/mupfelofen-de/Tamago)
   * [Documentation](https://docs.dailyhack.eu/tamago/)
@@ -21,6 +18,8 @@ title: Projects
 
 ### Software
 
+* CleanUp: A shooter game for MS-DOS
+  * [GitHub project site](https://github.com/mupfelofen-de/CleanUp)
 * eszFW: A cross-platform game development framework written in C99
   * [GitHub project site](https://github.com/mupfelofen-de/eszFW)
   * [Documentation](https://eszfw.de/)
