@@ -29,3 +29,6 @@ title: Projects
 
 ### Other
   * [ertes.eu: In memory of Ertugrul Söylemez (1984-2018)](https://ertes.eu)
+
+### Recommended articles
+  * [Better modulation for the Baofeng UV-5RA](https://rolfje.wordpress.com/2015/05/10/better-modulation-for-the-baofeng-uv-5ra/)
