@@ -18,7 +18,7 @@ title: Projects
 
 ### Software
 
-* eszFW: A cross-platform game engine framework written in C
+* eszFW: A cross-platform game engine written in C
   * [GitHub project site](https://github.com/mupfelofen-de/eszFW)
   * [Documentation](https://eszfw.de/)
 * Tau Ceti: A cross-platform 2D sci-fi themed tech demo
